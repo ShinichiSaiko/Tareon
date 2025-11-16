@@ -1,0 +1,2 @@
+Das Ophalen ist ein Wasserelementar das in volkanischen gewässern vorkommt. Die besonder eigenschafft ist das sie trotz ihrer kleinen Größe eine große Menge an Nahrung brauchen.
+Sie Fressen gestein und Edelsteine welche durch eine Flüssigkeit in ihrem rüssel verflüssigen und danach einsaugen.

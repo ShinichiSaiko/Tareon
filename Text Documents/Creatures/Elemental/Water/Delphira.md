@@ -1,0 +1,2 @@
+Ein Delphin ähliches wasser monster das schiffsläute täuscht und auf freundlich macht, um ihnen alles an wertsachen vom schiff zu klauen.
+sie haben einen Wasserkörper den sie Verformen können. im wasser sehen sie aus wie Delphine aber sie können auch an land und so klein werden wie eine Ameise.

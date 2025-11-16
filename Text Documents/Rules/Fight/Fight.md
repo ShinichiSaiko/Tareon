@@ -1,0 +1,27 @@
+- Turn Based Combat
+- 1 turn is about 5 seconds
+- Speed determines players turn order
+- Every combat turn you have:
+	- 1 Movement
+	- 2 Actions
+	- 2 Defending
+
+- Actions are:
+	- Attacking
+	- Moving other than your movement action
+	- Preparing actions
+	- Helping others
+	- Speaking
+	- Prepare Defense (adds to your defending actions)
+- Defending is:
+	- Using your weapon to parry
+	- try to dodge
+- You do not need to define the type of defense when you prepare it as an action. Decide when the time comes.
+- You can use 2 actions counting as 1, but with disadvantage
+- Attacking can only be done in your turn, while defending can only be done as a response to an enemy attack
+- Movement means you move up to 10 meters
+- To attack something, means you roll a d20 and add the AT value of the weapon you are using, to hit something, or someone, in range of that weapon. It counts as a success with a total of (16) or more
+- Defending is split in two options:
+	- Parry works like attacking. You roll a d20 and add the PA value of the weapon you are trying to use. With a (16) or more it counts as success
+	- To doge, you have to roll a d20 and have to get a result, that is lower than your current dodge value
+- A combat ends once all but one Party are either dead, ran away or gave up
