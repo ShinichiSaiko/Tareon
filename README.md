@@ -1,3 +1,3 @@
 # Git Page for the TTRPG Tareon
 
-Read Me Test
+Here will be a read me that will give an overview of the rules
