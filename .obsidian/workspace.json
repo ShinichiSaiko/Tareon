@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "README"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "d6d8cc9ff2bc798f",
   "lastOpenFiles": [
+    "Untitled.md",
     "test.md",
     "gitignore.md",
     "New Text Document.txt",
@@ -229,7 +230,6 @@
     "Text Documents/Creatures/Magic Monsters/Friendly/Water Creature/Trupix.md",
     "Text Documents/Creatures/Magic Monsters/Friendly/Water Creature/Portami.md",
     "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/Wind Dragon.md",
-    "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/Forest Dragon.md",
     "Text Documents/Creatures/Magic Monsters/Friendly/Water Creature",
     "Text Documents/Creatures/Magic Monsters/Friendly/Land Creature",
     "Text Documents/Creatures/Magic Monsters/Friendly/Dragon",
