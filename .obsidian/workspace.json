@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text Documents/Rules/Fight/Fight.md",
+                "file": "gitignore.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fight"
+              "title": "gitignore"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "d6d8cc9ff2bc798f",
   "lastOpenFiles": [
-    "Text Documents/Gods/Bonesis, God of Night.md",
+    "README.md",
+    "gitignore.md",
     "Text Documents/Rules/Fight/Fight.md",
+    "Text Documents/Gods/Bonesis, God of Night.md",
     "Text Documents/Rules/Fight",
     "Text Documents/Plants/Herbaric List.pdf",
     "Text Documents/Gods/Zoasis, Goddess of Day.md",
@@ -227,8 +229,6 @@
     "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/Wind Dragon.md",
     "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/Forest Dragon.md",
     "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/Star Dragon.md",
-    "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/Life Dragon.md",
-    "Text Documents/Creatures/Magic Monsters/Friendly/Dragon/King Dragon.md",
     "Text Documents/Creatures/Magic Monsters/Friendly/Water Creature",
     "Text Documents/Creatures/Magic Monsters/Friendly/Land Creature",
     "Text Documents/Creatures/Magic Monsters/Friendly/Dragon",
