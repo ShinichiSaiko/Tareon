@@ -1,0 +1,2 @@
+Schlangenstern ist etwa 1,5 meter größ. Es sieht aus wie ein Sehstern hat aber an jedem der 5 enden schlangenköpfe. nachdem einer der Köpfe abgetrennt wird,
+wächst er nach bis dem Schlangenstern die magie ausgeht.

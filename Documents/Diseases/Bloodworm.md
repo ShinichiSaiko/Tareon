@@ -1,0 +1,2 @@
+Der Blutwurm ist ein Parasit der von Dreckigem essen oder wasser übertragen werden kann. Der parasit ist klein genug um sich über das Blut zu vermehren und zu verbreiten.
+Ohne behandlung ist der Parasit nach etwa 3 Wochen tödlich, in dem er die Organe von innenheraus zurfrisst.

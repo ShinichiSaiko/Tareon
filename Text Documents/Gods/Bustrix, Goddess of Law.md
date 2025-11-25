@@ -1,1 +1,0 @@
-Law, Military, Truth

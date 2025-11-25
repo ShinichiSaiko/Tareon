@@ -1,1 +1,0 @@
-Revenge, War, Hate, Loneliness
